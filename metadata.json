@@ -1,0 +1,6 @@
+{
+  "name": "LoveFlix Birthday Experience",
+  "description": "A personalized, interactive Netflix-themed birthday website featuring custom memory shows, top 10 reasons, love letters, trivia, and date vouchers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
